@@ -9,7 +9,7 @@
   
   inputs.src-libipset-0_0_1.flake = false;
   inputs.src-libipset-0_0_1.owner = "ba0f3";
-  inputs.src-libipset-0_0_1.ref   = "refs/tags/0.0.1";
+  inputs.src-libipset-0_0_1.ref   = "0_0_1";
   inputs.src-libipset-0_0_1.repo  = "libipset.nim";
   inputs.src-libipset-0_0_1.type  = "github";
   
