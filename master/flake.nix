@@ -11,7 +11,6 @@
   inputs.src-libipset-master.ref   = "refs/heads/master";
   inputs.src-libipset-master.owner = "ba0f3";
   inputs.src-libipset-master.repo  = "libipset.nim";
-  inputs.src-libipset-master.dir   = "";
   inputs.src-libipset-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

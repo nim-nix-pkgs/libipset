@@ -11,7 +11,6 @@
   inputs.src-libipset-0_0_2.ref   = "refs/tags/0.0.2";
   inputs.src-libipset-0_0_2.owner = "ba0f3";
   inputs.src-libipset-0_0_2.repo  = "libipset.nim";
-  inputs.src-libipset-0_0_2.dir   = "";
   inputs.src-libipset-0_0_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
